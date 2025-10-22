@@ -1,2 +1,2 @@
-# PF-Lab-07-practice
+# PF-Lab-07
 arrays
